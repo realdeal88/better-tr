@@ -23,7 +23,7 @@ Bütün mesele **hız**: bir slash komutuna uzandınız, o yüzden *şimdi* forg
 
 [Kurulum](#kurulum) · [Kullanım](#kullanım) · [Bir prompt'un anatomisi](#forge-edilmiş-bir-promptun-anatomisi) · [Neden güvenmeli](#neden-güvenmeli--köken)
 
-`MIT` · Claude Code eklentisi + becerisi · Anthropic'in kendi prompt mühendisliği dokümanlarından damıtıldı
+`CC BY-ND 4.0` · Claude Code eklentisi + becerisi · Anthropic'in kendi prompt mühendisliği dokümanlarından damıtıldı
 
 </div>
 
@@ -112,4 +112,4 @@ Tam ayrıntılar, türe özgü iskeletler (kurma, hata düzeltme, refactor, yazm
 
 ## Lisans
 
-[MIT](LICENSE) © realdeal88
+[CC BY-ND 4.0](LICENSE) © realdeal88
