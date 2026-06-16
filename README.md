@@ -7,6 +7,10 @@
 **Yarım yamalak bir fikri, kesin ve kendini doğrulayan bir prompt'a dönüştüren bir Claude Code becerisi — anında.**
 Beş turluk röportaj yok. Bir satır girersiniz, modelin ilk denemede çalıştırıp kendi başına *bitti*'ye götürebileceği bir prompt çıkar.
 
+<br>
+
+<img src="assets/demo.gif" alt="better belirsiz bir 'uygulamamı hızlandır' isteğini hedef, kapsam ve doğrulanabilir bitiş koşulu olan kesin, kendini doğrulayan bir prompt'a dönüştürür" width="840">
+
 </div>
 
 Yetenekli bir modelle çalışırken, prompt *arayüzün ta kendisidir*. Belirsiz bir prompt modeli tahmine zorlar — yanlış stack, yanlış kapsam, yalnızca mutlu yol — ve bu tahminin bedelini yeniden işle ödersiniz. İyi mühendislik edilmiş bir prompt doğru cevabı bariz kılar ve çalışmanın kendi işini denetlemesine izin verir.
